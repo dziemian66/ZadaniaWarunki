@@ -1,0 +1,15 @@
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\bin\Debug\net6.0\ZadaniaWarunki.exe
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\bin\Debug\net6.0\ZadaniaWarunki.deps.json
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\bin\Debug\net6.0\ZadaniaWarunki.runtimeconfig.json
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\bin\Debug\net6.0\ZadaniaWarunki.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\bin\Debug\net6.0\ZadaniaWarunki.pdb
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.csproj.AssemblyReference.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.AssemblyInfoInputs.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.AssemblyInfo.cs
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.csproj.CoreCompileInputs.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\refint\ZadaniaWarunki.dll
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.pdb
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ZadaniaWarunki.genruntimeconfig.cache
+C:\Users\mrkan\OneDrive\Dokumenty\#Kurs APS NET\ZadaniaWarunki\ZadaniaWarunki\obj\Debug\net6.0\ref\ZadaniaWarunki.dll
